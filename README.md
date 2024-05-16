@@ -70,6 +70,8 @@ This project is about developing a cheap DIY robotic arm model using the ESP8266
 
 I know there are a lot of issues and discrepancies with this project, and that this project can be done in more efficient, advanced and better method. But since this is my first ever robotics/electronics project, I don't wish for it to turn out any other way. The fact that only matters is that I made it to work. I hope that in the future, when I have mastered the field, I can look back to this project to be reminded about my humble beginnings and how far I have come.
 
+---
+
 
 
 
