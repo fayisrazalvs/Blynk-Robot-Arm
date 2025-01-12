@@ -1,6 +1,6 @@
 # Blynk-Robot-Arm
 
-This project is about developing a cheap DIY robotic arm model using the ESP8266 Module and Blynk application
+This project is about developing a cheap DIY robotic arm model using the Node MCU Module and Blynk application
 
 ## Required Materials
 
